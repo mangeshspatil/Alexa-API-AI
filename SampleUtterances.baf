@@ -1,0 +1,23 @@
+Greeting	hello
+Greeting	hi
+Greeting	who are you
+Greeting	who are you?
+SickLeaveApplyYes	please proceed
+SickLeaveApplyYes	yeah
+SickLeaveApplyYes	yes
+SickLeaveApplyYes	yes please
+SickLeaveApplyYes	yup
+SickLeave	can you apply medical leave for me
+SickLeave	can you apply medical leave for me?
+SickLeave	can you apply sick leave for me
+SickLeave	can you apply sick leave for me?
+SickLeave	i am not feeling well {dateslot}
+Help	help
+Help	how can you help me
+Help	how can you help me?
+Help	what can you do for me
+Help	what can you do for me?
+InformTeamYes	please
+InformTeamYes	yeah
+InformTeamYes	yes
+InformTeamYes	yup

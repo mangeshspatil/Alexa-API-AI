@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "Greeting"
+    },
+    {
+      "intent": "SickLeaveApplyYes"
+    },
+    {
+      "intent": "SickLeave",
+      "slots": [
+        {
+          "name": "dateslot",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "Help"
+    },
+    {
+      "intent": "InformTeamYes"
+    }
+  ]
+}
