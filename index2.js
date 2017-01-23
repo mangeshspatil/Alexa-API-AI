@@ -63,7 +63,7 @@ function onIntent(intentRequest, session, callback) {
     var intentName = intentRequest.intent.name;
 
     // dispatch custom intents to handlers here
-    if (intentName == "GetInfoIntent") {
+    if (intentName == "Greeting") {
         handleGetInfoIntent(intent, session, callback)
     } else {
          throw "Invalid intent"
